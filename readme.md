@@ -60,7 +60,6 @@ This example uses these tools to demonstrate RAG concepts:
 - **[Ollama](https://ollama.ai/)** - Local AI model hosting for privacy
 - **[Supabase](https://supabase.com/)** - Database service with vector capabilities
 - **[LangChain](https://langchain.com/)** - Framework for working with AI models
-- **[pgvector](https://github.com/pgvector/pgvector)** - PostgreSQL extension for vector similarity
 
 ## Prerequisites
 
